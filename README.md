@@ -34,16 +34,16 @@ The repository is organized into directories corresponding to the six modules ou
   - Generics, lambda expressions, Stream API, annotations, reflection, and JDBC for database connectivity.
   - Example: Using Stream API to process collections and connecting to a database using JDBC for CRUD operations.
 
-Each question is implemented in a separate `.java` file, named according to the module and question number (e.g., `M1_Q01_HelloJava.java`). Solutions include comments explaining the logic, and where applicable, conceptual explanations are provided for clarity.
 
 ## How to Use This Repository
 
 1. **Navigate Modules**: Browse the module directories to explore specific topics or questions.
 2. **Run Solutions**: Each Java file is a standalone program that can be compiled and executed using a Java Development Kit (JDK). Ensure JDK is installed and configured.
+3. **You need to create your .java file where you can use these code to execute and understand concepts:**
    - Compile: `javac ModuleX/MX_QYY_*.java`
    - Run: `java ModuleX.MX_QYY_*`
-3. **Review Comments**: Each solution includes inline comments to explain the code's functionality and approach.
-4. **Contribute or Learn**: Feel free to fork this repository, suggest improvements, or use it as a learning resource.
+4. **Review Comments**: Each solution includes inline comments to explain the code's functionality and approach.
+5. **Contribute or Learn**: Feel free to fork this repository, suggest improvements, or use it as a learning resource.
 
 ## Prerequisites
 
@@ -55,11 +55,11 @@ Each question is implemented in a separate `.java` file, named according to the 
 
 By completing the 150 practice questions, I aim to achieve the following:
 
-- **CO1**: Understand and recall Java's core features and syntax.
-- **CO2**: Explain and implement object-oriented programming principles.
-- **CO3**: Apply Java Collections Framework, exception handling, and file I/O effectively.
-- **CO4**: Analyze and resolve concurrency issues in multithreaded applications.
-- **CO5**: Develop complex Java applications using advanced features like generics and JDBC.
+- Understand and recall Java's core features and syntax.
+- Explain and implement object-oriented programming principles.
+- Apply Java Collections Framework, exception handling, and file I/O effectively.
+- Analyze and resolve concurrency issues in multithreaded applications.
+- Develop complex Java applications using advanced features like generics and JDBC.
 
 ## Future Plans
 
@@ -71,11 +71,12 @@ By completing the 150 practice questions, I aim to achieve the following:
 ## Acknowledgments
 
 This repository is inspired by the structured practice set from the Java Programming course syllabus. The questions are designed to align with the course objectives, ensuring a comprehensive learning experience.
+I would love to mention Trilochan Sir, who was pivotal in building and teaching core concepts in the simplest way possible. 
 
 ## Contact
 
-For questions, suggestions, or contributions, please reach out via GitHub issues or contact me directly through my GitHub profile.
+For questions, suggestions, or contributions, please reach out via GitHub issues or contact me directly through my linkedin.
+www.linkedin.com/in/sibasish11
 
----
 
 *Last Updated: August 18, 2025*
