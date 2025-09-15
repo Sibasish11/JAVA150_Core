@@ -1,15 +1,14 @@
-# **Java Core Programming Practice Repository**
+# **Java Core Programming Repository**
 
 ## Overview
 
-This repository documents my journey of mastering core Java programming concepts through solving a comprehensive set of 150 practice questions. The questions are sourced from a structured Java programming course syllabus, covering fundamental to advanced topics. The goal is to enhance my understanding and proficiency in Java by implementing solutions to each problem, organized by course modules.
+This repository documents my journey of mastering core Java programming concepts through solving a comprehensive set of 150 practice questions. The questions are sourced from a structured Java programming course syllabus, covering fundamental to advanced topics. My goal is to enhance my understanding and proficiency in Java by implementing solutions to each problem, organized by course modules.
 
 ## Objectives
 
 - **Master Core Java Concepts**: Gain a deep understanding of Java syntax, object-oriented programming, collections, exception handling, multithreading, and advanced features like generics, lambda expressions, and JDBC.
 - **Apply Problem-Solving Skills**: Implement practical solutions to real-world programming problems, ranging from basic to complex scenarios.
 - **Document Learning Progress**: Maintain a well-organized repository with clear, maintainable code and detailed explanations for each solution.
-- **Showcase Proficiency**: Create a portfolio of Java programming skills for professional and educational purposes.
 
 ## Repository Structure
 
@@ -40,10 +39,9 @@ The repository is organized into directories corresponding to the six modules ou
 1. **Navigate Modules**: Browse the module directories to explore specific topics or questions.
 2. **Run Solutions**: Each Java file is a standalone program that can be compiled and executed using a Java Development Kit (JDK). Ensure JDK is installed and configured.
 3. **You need to create your .java file where you can use these code to execute and understand concepts:**
-   - Compile: `javac ModuleX/MX_QYY_*.java`
-   - Run: `java ModuleX.MX_QYY_*`
 4. **Review Comments**: Each solution includes inline comments to explain the code's functionality and approach.
-5. **Contribute or Learn**: Feel free to fork this repository, suggest improvements, or use it as a learning resource.
+   - i've used **ChatGPT to generate comments wherever neccesary, hope that helps you.**
+6. **Contribute or Learn**: Feel free to fork this repository, suggest improvements, or use it as a learning resource.
 
 ## Prerequisites
 
@@ -63,20 +61,17 @@ By completing the 150 practice questions, I aim to achieve the following:
 
 ## Future Plans
 
-- Add unit tests for solutions to ensure correctness and robustness.
-- Implement mini-projects (e.g., Library Management System, Multithreaded Chat Application) to apply concepts holistically.
+- Implement mini-projects to apply concepts holistically.
 - Include performance benchmarks for algorithms (e.g., sorting, searching) to compare efficiency.
 - Expand documentation with detailed explanations of complex topics like reflection and concurrency.
 
 ## Acknowledgments
 
 This repository is inspired by the structured practice set from the Java Programming course syllabus. The questions are designed to align with the course objectives, ensuring a comprehensive learning experience.
-I would love to mention Trilochan Sir, who was pivotal in building and teaching core concepts in the simplest way possible. 
+I would love to mention **Trilochan Sir**, who was pivotal in building and teaching core concepts in the simplest way possible. 
 
 ## Contact
 
 For questions, suggestions, or contributions, please reach out via GitHub issues or contact me directly through my linkedin.
-www.linkedin.com/in/sibasish11
 
-
-*Last Updated: August 18, 2025*
+*Last Updated: September 15, 2025*
